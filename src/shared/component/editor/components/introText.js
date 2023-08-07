@@ -12,8 +12,7 @@ Markdown is a lightweight markup language that you can use to add formatting ele
 - Create headings, paragraphs, links, blockquotes, inline-code, code blocks, and lists
 - Name and save the document to access again later
 - Choose between Light or Dark mode depending on your preference
-
-> This is an example of a blockquote. If you would like to learn more about markdown syntax, you can visit this [markdown cheatsheet](https://www.markdownguide.org/cheat-sheet/).
+- This can be used in github readme file.
 
 #### Headings
 
